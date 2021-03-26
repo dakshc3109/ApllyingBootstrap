@@ -1,5 +1,6 @@
 #contact iframe
 {
+    margin-top: 20px;
     width: 100%;
 }
 .contact_1 h3
@@ -56,4 +57,21 @@ input
 
 .movie_head span{
     color: #ff7700;
+}
+
+.evironment_li{
+    margin-top: 13px;
+}
+
+.evironment_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.evironment_li img{
+    border-radius: 25px;
+}
+
+.evironment_li p{
+    margin-top: 10px;
 }
